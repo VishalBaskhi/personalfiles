@@ -1,0 +1,8 @@
+prefix=/home/vishal/hector_ws/install
+
+Name: drone_orbit
+Description: Description of drone_orbit
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

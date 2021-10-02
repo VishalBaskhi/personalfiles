@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vishal/hector_ws/devel/.private/line_follower/setup.sh

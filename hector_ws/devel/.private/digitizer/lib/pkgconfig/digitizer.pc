@@ -1,0 +1,8 @@
+prefix=/home/vishal/hector_ws/devel/.private/digitizer
+
+Name: digitizer
+Description: Description of digitizer
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

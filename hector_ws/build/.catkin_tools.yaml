@@ -1,0 +1,6 @@
+devel_space: /home/vishal/hector_ws/devel
+install: false
+install_space: /home/vishal/hector_ws/install
+profile: default
+source_space: /home/vishal/hector_ws/src
+workspace: /home/vishal/hector_ws

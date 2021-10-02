@@ -1,0 +1,4 @@
+catkin_generated/env_cached.sh: 16: exec: /home/vishal/hector_ws/src/cyborg_ws-master/src/robot_simulation/line_follower/cfg/LineParam.cfg: Permission denied
+make[2]: *** [/home/vishal/hector_ws/devel/.private/line_follower/include/line_follower/LineParamConfig.h] Error 126
+make[1]: *** [CMakeFiles/line_follower_gencfg.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -fpermissive -std=c++0x  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/vishal/hector_ws/build/drone_orbit/gtest/gtest/src -lpthread -Wl,-rpath,/home/vishal/hector_ws/build/drone_orbit/gtest/gtest/src 

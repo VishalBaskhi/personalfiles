@@ -1,0 +1,8 @@
+prefix=/home/vishal/hector_ws/devel/.private/line_follower
+
+Name: line_follower
+Description: Description of line_follower
+Version: 0.0.0
+Cflags: -I/home/vishal/hector_ws/devel/.private/line_follower/include
+Libs: -L${prefix}/lib 
+Requires: 
