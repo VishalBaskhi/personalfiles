@@ -1,0 +1,8 @@
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/LineParam.cfg: /home/vishal/hector_ws/devel/.private/line_follower/include/line_follower/LineParamConfig.h /home/vishal/hector_ws/devel/.private/line_follower/lib/python2.7/dist-packages/line_follower/cfg/LineParamConfig.py[0m
+catkin_generated/env_cached.sh: 16: exec: /home/vishal/hector_ws/src/cyborg_ws-master/src/robot_simulation/line_follower/cfg/LineParam.cfg: Permission denied
+make[2]: *** [/home/vishal/hector_ws/devel/.private/line_follower/include/line_follower/LineParamConfig.h] Error 126
+make[1]: *** [CMakeFiles/line_follower_gencfg.dir/all] Error 2
+make: *** [all] Error 2
+CMakeFiles/line_follower_gencfg.dir/build.make:63: recipe for target '/home/vishal/hector_ws/devel/.private/line_follower/include/line_follower/LineParamConfig.h' failed
+CMakeFiles/Makefile2:547: recipe for target 'CMakeFiles/line_follower_gencfg.dir/all' failed
+Makefile:138: recipe for target 'all' failed
